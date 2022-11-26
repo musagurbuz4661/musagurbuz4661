@@ -1,6 +1,6 @@
 
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="Welcome To My Profile!"src="/header.png"></div>
+<div align="center" ><img width="100%" alt="Welcome To My Profile!"src="https://github.com/musagurbuz4661/Musa_Gurbuz_Readme/blob/main/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Musa;Software+QA+Tester+In+France" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
